@@ -14,13 +14,13 @@ shifted_r_logo <- image_append(c(r_logo, floor_image), stack = TRUE)
                "lake", size = 233, font = "sans",
                color = "black", location = "+0+20"))
 
-
+s
 sticker(lakeR, package = "",
         p_size = 24,
         p_x = 1, p_y = 0,
         s_x = 1, s_y = .95,
         s_width = 1.5, s_height = 1.5,
-        url = "gvsu.edu/stat", 
+        url = "gvsu.edu/stat                  CC-BY-SA 4.0 bit.ly/2OLJEvG", 
         u_size = 6,
         h_fill = "white", h_color = "#0065a4",
         p_color = "black", dpi = 600,
