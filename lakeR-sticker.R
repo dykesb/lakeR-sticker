@@ -14,7 +14,6 @@ shifted_r_logo <- image_append(c(r_logo, floor_image), stack = TRUE)
                "lake", size = 233, font = "sans",
                color = "black", location = "+0+20"))
 
-s
 sticker(lakeR, package = "",
         p_size = 24,
         p_x = 1, p_y = 0,
